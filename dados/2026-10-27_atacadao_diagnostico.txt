@@ -1,0 +1,48 @@
+Diagnóstico Atacadão — 2026-10-27
+
+✘ Óleo de Soja (900ml): SEM PREÇO — o site devolveu 1 produtos, nenhum serve
+     · [não é o item] Óleo de Milho Veleiro 900ml (R$ 9,98)
+
+✘ Farinha de Trigo (1kg): SEM PREÇO — o site devolveu 6 produtos, nenhum serve
+     · [palavra proibida (pizza)] Farinha de Trigo Nita Para Pizza 5kg (R$ 13,99)
+     · [não é o item] Farinha de Mandioca Vó Maria Grossa 1kg (R$ 5,69)
+     · [não é o item] Farinha de Mandioca Vó Maria Fina 1kg (R$ 5,69)
+     · [não é o item] Farinha de Rosca Delamarie 1kg (R$ 6,99)
+     · [não é o item] Farinha de Milho Morixe Arepa 1kg (R$ 9,90)
+     · [não é o item] Farinha Flocada Da Terrinha Panko 1kg (R$ 25,90)
+
+✘ Sal Refinado (1kg): SEM PREÇO — o site devolveu 16 produtos, nenhum serve
+     · [não é o item] Açúcar Refinado Bulnez 1kg (R$ 3,15)
+     · [não é o item] Sal para Churrasco Swift 1kg (R$ 4,50)
+     · [não é o item] Sal Lebre Parrilla 1kg (R$ 5,09)
+     · [não é o item] Bebida Láctea Carolina Salada de Frutas 1,25kg (R$ 7,99)
+     · [não é o item] Iogurte Bulnez Salada de Frutas 1,15kg (R$ 9,99)
+     · [não é o item] Sal Marinho Smart Fino Integral 1kg (R$ 11,90)
+     · [não é o item] Iogurte Frutap Salada de Frutas 1,15kg (R$ 12,90)
+     · [não é o item] Sal Rosa do Himalaia Br Spices fino 1kg (R$ 12,99)
+
+✘ Biscoito Cream Cracker (400g): SEM PREÇO — o site devolveu 7 produtos, nenhum serve
+     · [tamanho diferente] Biscoito Marilan Cream Cracker 140g (R$ 3,39)
+     · [tamanho diferente] Biscoito Bulnez Cream Cracker 270g (R$ 3,89)
+     · [tamanho diferente] Biscoito Liane Cream Cracker 330g (R$ 3,98)
+     · [tamanho diferente] Biscoito Marilan Cream Cracker Especial 350g (R$ 4,49)
+     · [tamanho diferente] Biscoito Da Hora Cream Cracker 270g (R$ 4,75)
+     · [palavra proibida (integral)] Biscoito Marilan Cream Cracker Integral 335g (R$ 7,75)
+     · [não é o item] Biscoito Marilan Cracker Manteiga 300g (R$ 6,39)
+
+✘ Extrato de Tomate (340g): SEM PREÇO — o site devolveu 5 produtos, nenhum serve
+     · [tamanho diferente] Extrato de Tomate Xavante 300g (R$ 1,89)
+     · [tamanho diferente] Extrato de Tomate Bulnez Bowl 300g (R$ 5,49)
+     · [tamanho diferente] Extrato de Tomate Heinz 240g (R$ 5,69)
+     · [tamanho diferente] Extrato de Tomate Elefante Strogonoff 300g (R$ 8,49)
+     · [tamanho diferente] Extrato de Tomate Elefante Carne de Panela 300g (R$ 8,49)
+
+✘ Sabão em Pó (1kg): SEM PREÇO — o site devolveu 40 produtos, nenhum serve
+     · [tamanho diferente] Sabão em Pó Tixan Ypê Primavera 400g (R$ 5,28)
+     · [tamanho diferente] Sabão em Pó Tixan Ypê Primavera 800g (R$ 8,99)
+     · [tamanho diferente] Sabão em Pó Tixan Ypê Primavera 2,4kg (R$ 18,99)
+     · [tamanho diferente] Brilhante Sabão em Pó Perfume e Cuidado Extraordinário 1,6kg (R$ 19,98)
+     · [tamanho diferente] Sabão em Pó Tixan Power Act 1,6Kg (R$ 21,90)
+     · [tamanho diferente] Sabão em Pó Tixan Power Act Sachê 2,4Kg (R$ 26,99)
+     · [não é o item] Lava Roupas em Pó Ares Bicarbonato 800g (R$ 2,99)
+     · [não é o item] Lava Roupas em Pó Ares Max Essence 800g (R$ 2,99)

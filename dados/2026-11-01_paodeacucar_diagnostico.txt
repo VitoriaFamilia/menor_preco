@@ -1,0 +1,28 @@
+Diagnóstico Pão de Açúcar — 2026-11-01
+
+✘ Biscoito Cream Cracker (400g): SEM PREÇO — o site devolveu 6 produtos, nenhum serve
+     · [tamanho diferente] Biscoito Cream Cracker Folhado Manteiga Adria Folhata Pacote 170g (R$ 4,99)
+     · [tamanho diferente] Biscoito Cream Cracker Piraquê Pacote 184g (R$ 6,29)
+     · [tamanho diferente] Biscoito Cream Cracker Marilan 300g (R$ 7,29)
+     · [tamanho diferente] Biscoito Cream Cracker Tradicional Vitarella Pacote 350g (R$ 7,79)
+     · [tamanho diferente] Biscoito Cream Cracker Marilan Pacote 350g (R$ 7,99)
+     · [palavra proibida (integral)] Biscoito Cream Cracker Integral Vitarella Pacote 367,5g (R$ 8,49)
+
+✘ Extrato de Tomate (340g): SEM PREÇO — o site devolveu 7 produtos, nenhum serve
+     · [tamanho diferente] Extrato de Tomate Qualitá Sachê 300g (R$ 5,29)
+     · [tamanho diferente] Extrato de Tomate Elefante Lata 130g (R$ 5,29)
+     · [tamanho diferente] Extrato De Tomate Quero 300g (R$ 5,99)
+     · [tamanho diferente] Extrato de Tomate Heinz Sachê 240g (R$ 7,29)
+     · [tamanho diferente] Extrato de Tomate Elefante Pote 300g (R$ 9,99)
+     · [tamanho diferente] Extrato de Tomate Elefante Só Tomate Pote 300g (R$ 9,99)
+     · [não é o item] MASSA MISTA INSTANTANEA CUP PROTEICA KONJAC MASSA SABOR TOMATE E VEGETAIS 32G (R$ 29,99)
+
+✘ Sabão em Pó (1kg): SEM PREÇO — o site devolveu 50 produtos, nenhum serve
+     · [tamanho diferente] Sabão em Pó QUALITÁ Coco Caixa 500g (R$ 14,49)
+     · [tamanho diferente] Sabão em Pó OMO Lavagem Perfeita 1,6Kg (R$ 30,99)
+     · [tamanho diferente] Kit com 1 Sabão em Pó OMO Lavagem Perfeita 1.6Kg + 1 Limpador Multiuso CIF Antibacteriano 500Ml. (R$ 41,48)
+     · [tamanho diferente] Kit com 1 Sabão em Pó OMO Lavagem Perfeita 1.6Kg + 1 Amaciante Comfort Intense Original 500Ml (R$ 47,98)
+     · [tamanho diferente] Kit com 1 Sabão em Pó OMO Lavagem Perfeita 1.6Kg + 1 Amaciante Comfort Intense Original 500Ml (R$ 47,98)
+     · [tamanho diferente] Kit com 1 Sabão em Pó OMO Lavagem Perfeita 1.6Kg + 1 Amaciante Comfort Intense Original 1 Litro (R$ 48,98)
+     · [tamanho diferente] Kit com 1 Sabão em Pó OMO Lavagem Perfeita 1.6Kg + 1 Limpador Saponaceo CIF Cremoso 500 Ml (R$ 48,98)
+     · [tamanho diferente] Kit com 1 Sabão em Pó OMO Lavagem Perfeita 1.6Kg + 1 Amaciante Comfort Intense Original 1 Litro (R$ 48,98)

@@ -1,0 +1,41 @@
+Diagnóstico Prezunic — 2026-11-01
+
+✘ Biscoito Cream Cracker (400g): SEM PREÇO — o site devolveu 15 produtos, nenhum serve
+     · [tamanho diferente] Biscoito Cream Cracker Marilan Pacote 140g (R$ 1,99)
+     · [tamanho diferente] Biscoito Cream Cracker Adria 170g (R$ 4,39)
+     · [tamanho diferente] Biscoito Cream Cracker Adria Folhata Folhado Manteiga Pacote 170g (R$ 4,49)
+     · [tamanho diferente] Biscoito Cream Cracker Amanteigado Richester Superiore 170g (R$ 4,69)
+     · [tamanho diferente] Biscoito Cream Cracker Piraquê 184g (R$ 5,09)
+     · [tamanho diferente] Biscoito Cream Cracker Piraquê Água e Sal 184g (R$ 5,99)
+     · [tamanho diferente] Biscoito Cream Cracker Piraquê Light Pacote 184g (R$ 5,99)
+     · [tamanho diferente] Biscoito Cream Cracker Manteiga Marilan 300g (R$ 6,09)
+
+✘ Ovos (12 un): SEM PREÇO — o site devolveu 57 produtos, nenhum serve
+     · [tamanho diferente] Macarrão de Sêmola Adria com Ovos Furado 5 Pacote 500g (R$ 6,59)
+     · [tamanho diferente] Massa Conchinha com Ovos Adria 500g (R$ 6,69)
+     · [tamanho diferente] Massa c/ Ovos Adria Argola 500g (R$ 6,69)
+     · [tamanho diferente] Massa com Ovos Adria Gravata 500g (R$ 6,89)
+     · [tamanho diferente] Massa Fidelinho Ovos Adria 500g (R$ 6,89)
+     · [tamanho diferente] Massa Nhoque c/ Ovos Adria 500g (R$ 6,89)
+     · [tamanho diferente] Macarrão Santa Amália Canelloni com Ovos 200g (R$ 6,89)
+     · [tamanho diferente] Macarrão de Sêmola Parafusinho Renata com Ovos 500g (R$ 6,99)
+
+✘ Extrato de Tomate (340g): SEM PREÇO — o site devolveu 12 produtos, nenhum serve
+     · [tamanho diferente] Extrato de Tomate Predilecta Sachê 300g (R$ 3,89)
+     · [tamanho diferente] Extrato de Tomate Elefante Lata 130g (R$ 5,89)
+     · [tamanho diferente] Extrato de Tomate Quero Sachê 300g (R$ 6,09)
+     · [tamanho diferente] Extrato Tomate Predilecta Vidro 190g (R$ 6,89)
+     · [tamanho diferente] Extrato de Tomate Heinz Sachê 240g (R$ 6,99)
+     · [tamanho diferente] Extrato de Tomate Predilecta Pote 300g (R$ 8,69)
+     · [tamanho diferente] Extrato de Tomate Predilecta Cebola e Alho Pote 300g (R$ 8,69)
+     · [tamanho diferente] Extrato de Tomate Elefante Sachê 300g (R$ 9,19)
+
+✘ Água Sanitária (1L): SEM PREÇO — o site devolveu 15 produtos, nenhum serve
+     · [não é o item] Água Mineral Minalba sem Gás 1,5 Litros (R$ 2,99)
+     · [não é o item] Água Mineral Crystal sem Gás Pet 1,5 Litros (R$ 2,99)
+     · [não é o item] Água Mineral Nestlé Pureza Vital sem Gás Garrafa 1,5 Litros (R$ 3,19)
+     · [não é o item] Água Mineral Cuisine&Co Pet com Gás 1,5 Litros (R$ 3,99)
+     · [não é o item] Água Tônica Antarctica Zero 1l (R$ 8,19)
+     · [não é o item] Água Tônica Antarctica Pet 1l (R$ 8,19)
+     · [não é o item] Néctar Maguary Caju Caixa 1 Litro (R$ 10,99)
+     · [não é o item] Néctar Maguary Abacaxi Caixa 1 Litro (R$ 10,99)

@@ -1,0 +1,69 @@
+SUPERPREÇO - COLETOR DE PREÇOS (versão 1: Prezunic)
+====================================================
+
+O QUE FAZ
+  Para cada um dos 18 itens genéricos, busca no site da rede, descarta o que não é
+  o item (integral, desnatado, kit, outro tamanho...) e guarda o MENOR preço no
+  tamanho de referência. Grava um CSV em /dados e, depois, importa para a tabela precos.
+
+1) COPIAR
+   Extraia este zip DENTRO da pasta do projeto (a que tem package.json e server.js).
+   Entram: pasta coletor, pasta test (nome novo: normalizar.test.js), pasta dados e
+   o arquivo coleta_diaria.bat. Nenhum arquivo seu é sobrescrito.
+   Não precisa instalar nada: usa o Node 24 (fetch embutido) e o mysql2/dotenv que você já tem.
+
+2) COLETAR (precisa de internet)
+   node coletor/coletar.js prezunic --detalhe
+
+   Mostra, para cada item, o preço escolhido e o nome do produto, e os 3 mais baratos.
+   Cria o arquivo dados/AAAA-MM-DD_prezunic.csv.
+   A marca NÃO importa: vale o menor preço entre todas as marcas, no tamanho da tabela produtos.
+   Itens marcados com X ("SEM PREÇO") não têm produto válido. O coletor explica o motivo de
+   cada produto descartado ("sem estoque", "tamanho diferente", "palavra proibida"...) e grava o diagnóstico
+   em dados/AAAA-MM-DD_prezunic_diagnostico.txt. Me mande a saída (ou esse arquivo).
+
+3) CONFERIR
+   Abra o site do Prezunic e confira 3 ou 4 preços com os que o coletor mostrou.
+
+4) IMPORTAR PARA O BANCO (XAMPP/MySQL ligado)
+   node coletor/importar.js
+
+5) TESTAR NA API
+   npm start   (em outro terminal)
+   Invoke-RestMethod -Method Post -Uri http://localhost:3000/api/comparar -ContentType "application/json" -Body '{"cep":"20541-000","itens":[{"id_produto":1,"quantidade":1}]}' | ConvertTo-Json -Depth 6
+   Enquanto só o Prezunic tiver preço, só ele aparece nos cards.
+
+6) AGENDAR TODO DIA AS 6H30 (Windows, PowerShell)
+   schtasks /Create /SC DAILY /ST 06:30 /TN "SuperPreco Coleta" /TR "C:\caminho\da\pasta\menorpreco\coleta_diaria.bat"
+   (troque o caminho pelo da sua pasta). O PC precisa estar ligado e o MySQL do XAMPP rodando.
+   O resultado de cada execução fica em dados\log.txt.
+   Para testar na hora: schtasks /Run /TN "SuperPreco Coleta"
+
+7) TESTES AUTOMÁTICOS (opcional)
+   node --test test/normalizar.test.js   (21 testes: node --test test/normalizar.test.js test/vtex.test.js)
+
+COMO AJUSTAR
+   coletor/itens.js: o termo de busca, as palavras que o nome precisa ter ("deve") e as
+   que descartam o produto ("evita"). Para mudar o tamanho de referência, mude "tamanho"
+   aqui e também o peso_medida na tabela produtos.
+
+ATACADÃO (rede nova)
+   1) Sondar o site (não grava nada):   node coletor/sondar.js atacadao arroz
+      Mostra se o site respondeu, quantos produtos vieram e se há preço/estoque.
+   2) Se vier com preços:               node coletor/coletar.js atacadao --detalhe
+   3) Se vier vazio ou sem preço (atacarejo pode exigir loja/canal de vendas):
+      PowerShell:  $env:ATACADAO_CONSULTA="sc=2"; node coletor/coletar.js atacadao
+      (o número do canal é descoberto no site: F12 > Network > procure "sc=" ou "regionId=")
+   Atenção: o Atacadão vende muito em fardo/caixa (ex.: 6x5kg). Esses são descartados de
+   propósito, porque o preço seria do conjunto; só vale a unidade no tamanho de referência.
+
+PRÓXIMAS REDES
+   Atacadão e outras redes VTEX usam o mesmo código: basta um arquivo novo em
+   coletor/redes (como prezunic.js) e uma linha em coletar.js.
+
+OBSERVAÇÕES
+   - Este coletor foi escrito sem acesso ao site do Prezunic; o primeiro teste real
+     pode pedir ajustes de termo ou de filtro.
+   - O preço vale para a REDE inteira e é gravado na filial de menor id dela.
+   - Item sem preço no dia mantém o último preço gravado.
+   - Respeite o site: o coletor espera 0,5 s entre pedidos e roda uma vez por dia.

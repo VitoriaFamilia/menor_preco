@@ -1,0 +1,51 @@
+Diagnóstico Prezunic — 2026-10-27
+
+✘ Sal Refinado (1kg): SEM PREÇO — o site devolveu 14 produtos, nenhum serve
+     · [palavra proibida (light)] Sal Refinado Lebre Light Frasco 100g (R$ 10,99)
+     · [não é o item] Sal Grosso Cuisine&Co 1Kg (R$ 2,99)
+     · [não é o item] Açúcar Refinado Cuisine&Co Pacote 1Kg (R$ 3,69)
+     · [não é o item] Açúcar Refinado Caravelas 1Kg (R$ 3,89)
+     · [não é o item] Sal Grosso para Churrasco Lebre 1Kg (R$ 5,09)
+     · [não é o item] Sal Cisne Fino 1Kg (R$ 6,59)
+     · [não é o item] Sal Grosso Cisne 1Kg (R$ 7,19)
+     · [não é o item] Açúcar Refinado União Premium 1Kg (R$ 8,19)
+
+✘ Biscoito Cream Cracker (400g): SEM PREÇO — o site devolveu 11 produtos, nenhum serve
+     · [tamanho diferente] Biscoito Cream Cracker Marilan Pacote 140g (R$ 3,69)
+     · [tamanho diferente] Biscoito Cream Cracker Adria 170g (R$ 4,39)
+     · [tamanho diferente] Biscoito Cream Cracker Adria Folhata Folhado Manteiga Pacote 170g (R$ 4,49)
+     · [tamanho diferente] Biscoito Cream Cracker Amanteigado Richester Superiore 170g (R$ 4,69)
+     · [tamanho diferente] Biscoito Cream Cracker Piraquê Light Pacote 184g (R$ 5,99)
+     · [tamanho diferente] Biscoito Cream Cracker Manteiga Marilan 300g (R$ 6,09)
+     · [tamanho diferente] Biscoito Cream Cracker Vitarella Amanteigado Tradicional 350g (R$ 7,49)
+     · [tamanho diferente] Biscoito Cream Cracker Richester Superiore Manteiga 350g (R$ 7,69)
+
+✘ Ovos (12 un): SEM PREÇO — o site devolveu 48 produtos, nenhum serve
+     · [tamanho diferente] Macarrão de Sêmola Adria com Ovos Furado 5 Pacote 500g (R$ 6,59)
+     · [tamanho diferente] Massa Conchinha com Ovos Adria 500g (R$ 6,69)
+     · [tamanho diferente] Massa c/ Ovos Adria Argola 500g (R$ 6,69)
+     · [tamanho diferente] Massa com Ovos Adria Gravata 500g (R$ 6,89)
+     · [tamanho diferente] Massa Fidelinho Ovos Adria 500g (R$ 6,89)
+     · [tamanho diferente] Massa Nhoque c/ Ovos Adria 500g (R$ 6,89)
+     · [tamanho diferente] Macarrão de Sêmola Renata Fidelinho 10 com ovos Pacote 500g (R$ 7,09)
+     · [tamanho diferente] Macarrão Parafuso Renata com Ovos 500g (R$ 7,19)
+
+✘ Extrato de Tomate (340g): SEM PREÇO — o site devolveu 11 produtos, nenhum serve
+     · [tamanho diferente] Extrato de Tomate Pramesa Sachê 300g (R$ 3,19)
+     · [tamanho diferente] Extrato de Tomate Quero Sachê 300g (R$ 6,09)
+     · [tamanho diferente] Extrato Tomate Predilecta Vidro 190g (R$ 6,89)
+     · [tamanho diferente] Extrato de Tomate Heinz Sachê 240g (R$ 6,99)
+     · [tamanho diferente] Extrato de Tomate Elefante Caixa 275g (R$ 8,39)
+     · [tamanho diferente] Extrato de Tomate Predilecta Pote 300g (R$ 8,69)
+     · [tamanho diferente] Extrato de Tomate Predilecta Cebola e Alho Pote 300g (R$ 8,69)
+     · [tamanho diferente] Extrato de Tomate Elefante Sachê 300g (R$ 9,19)
+
+✘ Água Sanitária (1L): SEM PREÇO — o site devolveu 17 produtos, nenhum serve
+     · [não é o item] Água Mineral Crystal sem Gás Pet 1,5 Litros (R$ 2,99)
+     · [não é o item] Água Mineral Nestlé Pureza Vital sem Gás Garrafa 1,5 Litros (R$ 3,19)
+     · [não é o item] Água Mineral Preciosa Com Gás Pet 1,250l (R$ 3,49)
+     · [não é o item] Água Mineral Cuisine&Co Pet com Gás 1,5 Litros (R$ 3,99)
+     · [não é o item] Água Tônica Schweppes Zero Açúcar Pet 1,5 Litros (R$ 6,99)
+     · [não é o item] Água Tônica Antarctica Zero 1l (R$ 8,19)
+     · [não é o item] Água Tônica Antarctica Pet 1l (R$ 8,19)
+     · [não é o item] Suco Maguary Concentrado Caju 1l (R$ 10,99)
